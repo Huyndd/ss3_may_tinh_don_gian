@@ -1,0 +1,145 @@
+table{
+    margin: auto;
+}
+#Result{
+    width: 180px;
+    height: 25px;
+}
+.btn{
+    width: 33px;
+    height: 30px;
+}
+#equal{
+    width: 33px;
+    height: 64px;
+}
+#zero{
+    width: 70px;
+    height: 30px;
+}
+
+
+/**{*/
+    /*text-align: center;*/
+/*}*/
+/*#show{*/
+    /*width: 254px;*/
+    /*height: 60px;*/
+    /*text-align: right;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+    /*margin: 3px;*/
+/*}*/
+/*#btn9{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+    /*margin: 3px;*/
+/*}*/
+/*#btn8{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+/*#btn7{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+/*#btnAdd{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+/*#btn6{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+    /*margin: 3px;*/
+/*}*/
+/*#btn5{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+/*#btn4{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+/*#btnSub{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+/*#btn3{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+    /*margin: 3px;*/
+/*}*/
+/*#btn2{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+/*#btn1{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+/*#btnMul{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+
+/*#btn0{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+    /*margin: 3px;*/
+/*}*/
+/*#btnEql{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+/*#btnDiv{*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
+/*#btnReset {*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*font-size: 30px;*/
+    /*border-radius: 8px;*/
+
+/*}*/
